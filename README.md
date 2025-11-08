@@ -66,11 +66,11 @@
 ## デザインツール
 <div>
   <img src="https://img.shields.io/badge/-Figma-444444?logo=figma&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Affinity-444444?logo=affinity&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-PhotoScape X-444444?logo=photoscapex&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Canva-444444?logo=canva&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-AdobePhotoshop-444444?logo=adobephotoshop&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-AdobeIllustrator-444444?logo=adobeillustrator&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Affinity-444444?logo=affinity&style=for-the-badge" />
 </div>
 
 ## その他
